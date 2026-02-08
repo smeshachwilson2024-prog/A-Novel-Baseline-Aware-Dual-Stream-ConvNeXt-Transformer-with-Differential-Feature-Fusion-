@@ -26,31 +26,6 @@ The proposed architecture features:
 
 ## 📂 Repository Structure
 
-# A-Novel-Baseline-Aware-Dual-Stream-ConvNeXt-Transformer-with-Differential-Feature-Fusion
-
-This repository presents a **novel baseline-aware dual-stream ConvNeXt–Transformer architecture with differential feature fusion**, designed to achieve improved classification performance. The project includes extensive comparisons with multiple baseline models and robust evaluation using train–validation–test splits and 10-fold cross-validation.
-
----
-
-## 📌 Project Overview
-
-The objectives of this work are:
-- To propose a **hybrid deep learning model** combining ConvNeXt and Transformer architectures
-- To introduce **differential feature fusion** for enhanced discriminative learning
-- To perform **baseline-aware evaluation** against classical and deep learning models
-- To validate model robustness using **10-fold cross-validation**
-
----
-
-## 🧠 Proposed Model
-
-The proposed architecture features:
-- A **dual-stream design**
-- **ConvNeXt** for spatial feature extraction
-- **Transformer** modules for capturing long-range dependencies
-- **Differential feature fusion** to effectively combine learned representations
-
----
 
 ## 📘 Notebook Descriptions
 
